@@ -1,0 +1,866 @@
+fileFormatVersion: 2
+guid: 45bdcf2d5cccb3247bed8a328514adb5
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Idle Pistol
+    21300002: Fire Pistol
+    21300004: 28-283454_http-www-codeproject-halo-sprite_2
+    21300006: 28-283454_http-www-codeproject-halo-sprite_3
+    21300008: 28-283454_http-www-codeproject-halo-sprite_4
+    21300010: 28-283454_http-www-codeproject-halo-sprite_5
+    21300012: 28-283454_http-www-codeproject-halo-sprite_6
+    21300014: 28-283454_http-www-codeproject-halo-sprite_7
+    21300016: 28-283454_http-www-codeproject-halo-sprite_8
+    21300018: 28-283454_http-www-codeproject-halo-sprite_9
+    21300020: 28-283454_http-www-codeproject-halo-sprite_10
+    21300022: 28-283454_http-www-codeproject-halo-sprite_11
+    21300024: 28-283454_http-www-codeproject-halo-sprite_12
+    21300026: 28-283454_http-www-codeproject-halo-sprite_13
+    21300028: 28-283454_http-www-codeproject-halo-sprite_14
+    21300030: 28-283454_http-www-codeproject-halo-sprite_15
+    21300032: 28-283454_http-www-codeproject-halo-sprite_16
+    21300034: 28-283454_http-www-codeproject-halo-sprite_17
+    21300036: 28-283454_http-www-codeproject-halo-sprite_18
+    21300038: 28-283454_http-www-codeproject-halo-sprite_19
+    21300040: 28-283454_http-www-codeproject-halo-sprite_20
+    21300042: 28-283454_http-www-codeproject-halo-sprite_21
+    21300044: 28-283454_http-www-codeproject-halo-sprite_22
+    21300046: 28-283454_http-www-codeproject-halo-sprite_23
+    21300048: 28-283454_http-www-codeproject-halo-sprite_24
+    21300050: 28-283454_http-www-codeproject-halo-sprite_25
+    21300052: 28-283454_http-www-codeproject-halo-sprite_26
+    21300054: 28-283454_http-www-codeproject-halo-sprite_27
+    21300056: 28-283454_http-www-codeproject-halo-sprite_28
+    21300058: 28-283454_http-www-codeproject-halo-sprite_29
+    21300060: 28-283454_http-www-codeproject-halo-sprite_30
+    21300062: 28-283454_http-www-codeproject-halo-sprite_31
+    21300064: 28-283454_http-www-codeproject-halo-sprite_32
+    21300066: 28-283454_http-www-codeproject-halo-sprite_33
+    21300068: 28-283454_http-www-codeproject-halo-sprite_34
+    21300070: 28-283454_http-www-codeproject-halo-sprite_35
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: PSP2
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle Pistol
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 215
+        width: 44
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8ea3c26a60dd24bb7e93f41df4c3e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Pistol
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 215
+        width: 57
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a98205011315984aa9a2fe79e3da09c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 28-283454_http-www-codeproject-halo-sprite_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 215
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7b34af4b0d80f4d92b849e764abdd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 28-283454_http-www-codeproject-halo-sprite_3
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 215
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15cf21ee28f35ef41bec925cbf4f604e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 28-283454_http-www-codeproject-halo-sprite_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 215
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018e0c961978b1e4799ae0fcd7520227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 28-283454_http-www-codeproject-halo-sprite_5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 215
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adad459b2304ba7469abf973154ef192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 28-283454_http-www-codeproject-halo-sprite_6
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 215
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ec9fb433ef55447a958dd43e1a832d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 28-283454_http-www-codeproject-halo-sprite_7
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 215
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a58baedfe9b2f4ab7e7577499d1b3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 28-283454_http-www-codeproject-halo-sprite_8
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 215
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb556e0fccc17974cbf857582002de06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 28-283454_http-www-codeproject-halo-sprite_9
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 215
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4a8001375b9f64f8355ef857432890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 28-283454_http-www-codeproject-halo-sprite_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 215
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e02549e5f05b448880eca031f69e0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 28-283454_http-www-codeproject-halo-sprite_11
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 215
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011060d4510ccfb48af89f45c880cb27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 28-283454_http-www-codeproject-halo-sprite_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 141
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b4740ccb3022f44a01039c58033c6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 28-283454_http-www-codeproject-halo-sprite_13
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 141
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e62d12e230ee624faceffdd19b010bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 28-283454_http-www-codeproject-halo-sprite_14
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 141
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cb1bdc8c6c1f6489b02c829a309d89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 28-283454_http-www-codeproject-halo-sprite_15
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 141
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabd377579335c54a8ea98e71f37d26f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 28-283454_http-www-codeproject-halo-sprite_16
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 141
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe8c675e3160c341b9b4740ef63b1ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 28-283454_http-www-codeproject-halo-sprite_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 141
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2879e510578ac24ea78f70a7a4545a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 28-283454_http-www-codeproject-halo-sprite_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 73
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd50001d93cedfb41a5877225f01ae2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 28-283454_http-www-codeproject-halo-sprite_19
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 73
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a547443155830f4aa42d6606b8bc3b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 28-283454_http-www-codeproject-halo-sprite_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 73
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0333d7757e9ed4eaa25fe7e67ce645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 28-283454_http-www-codeproject-halo-sprite_21
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 73
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f12dc3cc511474c830ba239ec9ba9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 28-283454_http-www-codeproject-halo-sprite_22
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 73
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70004f4527fe4874e963df1a97e03c8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 28-283454_http-www-codeproject-halo-sprite_23
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 73
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c773651be6a78924784103d3c903eb45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 28-283454_http-www-codeproject-halo-sprite_24
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 73
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e7b710a9d97504793c3ad65e9e7f43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 28-283454_http-www-codeproject-halo-sprite_25
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 73
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be997970479ca124dbc6f33363e1d4d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 28-283454_http-www-codeproject-halo-sprite_26
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 73
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef0af16047835547acf88b561c292b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 28-283454_http-www-codeproject-halo-sprite_27
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 73
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa757762907904a4590badc474caca00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 28-283454_http-www-codeproject-halo-sprite_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 73
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604d0461c7b76be428ebf8e450fed937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 28-283454_http-www-codeproject-halo-sprite_29
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 73
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8145b937bf1a897448ead24c674498a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 28-283454_http-www-codeproject-halo-sprite_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427c2fb1331257346b5294e4ded3b0c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 28-283454_http-www-codeproject-halo-sprite_31
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ef15a0a2233844689abbe82fd2ad7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 28-283454_http-www-codeproject-halo-sprite_32
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce6f127c114fc94f99ba7d33d560a33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 28-283454_http-www-codeproject-halo-sprite_33
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558a5e69c88d35647ac7866d3be220e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 28-283454_http-www-codeproject-halo-sprite_34
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da15f323708a4e64db5fe71afa97cacd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 28-283454_http-www-codeproject-halo-sprite_35
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609281dbcd5937a45b80fa1133e76b4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 88e52d80875bb864781514f5a83b0db8
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

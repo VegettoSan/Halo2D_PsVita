@@ -1,0 +1,1160 @@
+fileFormatVersion: 2
+guid: 934b5f0afad9f2843909f11d03f3b702
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Master-Chief1 Idle
+    21300002: Master-Chief1_1
+    21300004: Master-Chief1_2
+    21300006: Master-Chief1_3
+    21300008: Master-Chief1_4
+    21300010: Master-Chief1_5
+    21300012: Master-Chief1_6
+    21300014: Master-Chief1_7
+    21300016: Master-Chief1 Dead 0
+    21300018: Master-Chief1 Dead 1
+    21300020: Master-Chief1 Dead 2
+    21300022: Master-Chief1_11
+    21300024: Master-Chief1_12
+    21300026: RifleAsalto MuzzleFlash
+    21300028: Master-Chief1_14
+    21300030: Master-Chief1_15
+    21300032: Master-Chief1 Run 0
+    21300034: Master-Chief1 Run 1
+    21300036: Master-Chief1 Run 2
+    21300038: Master-Chief1 Run 3
+    21300040: Master-Chief1 Run 4
+    21300042: Master-Chief1 Run 5
+    21300044: Master-Chief1 Run 6
+    21300046: Master-Chief1 Run 7
+    21300048: Master-Chief1 Run 8
+    21300050: Master-Chief1 Jump 0
+    21300052: Master-Chief1 Jump 1
+    21300054: Master-Chief1 Jump 2
+    21300056: Master-Chief1 Jump 3
+    21300058: Master-Chief1 Jump 4
+    21300060: Master-Chief1_30
+    21300062: Master-Chief1_31
+    21300064: Master-Chief1_32
+    21300066: Master-Chief1_33
+    21300068: Master-Chief1 Meele 0
+    21300070: Master-Chief1 Meele 1
+    21300072: Master-Chief1_36
+    21300074: Master-Chief1_37
+    21300076: Master-Chief1_38
+    21300078: Master-Chief1_39
+    21300080: Master-Chief1_40
+    21300082: Master-Chief1_41
+    21300084: Master-Chief1_42
+    21300086: Master-Chief1_43
+    21300088: Master-Chief1_44
+    21300090: Master-Chief1_45
+    21300092: Master-Chief1_46
+    21300094: Master-Chief1_47
+    21300096: Master-Chief1_48
+    21300098: Master-Chief1_49
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: PSP2
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Master-Chief1 Idle
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 793
+        width: 83
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1babdff84427d45883a493e7fa42e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 793
+        width: 78
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035cb10a281f3b049b816f5065bda03e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 793
+        width: 72
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8469557e8b3c3634aa9a334f83a68fb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1_3
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 793
+        width: 63
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8e0409ec162e5409577d4c2d7a8764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1_4
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 793
+        width: 86
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2bdd852027f8946b07e29998b588b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1_5
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 793
+        width: 87
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b682e04b680ece94eb2667b96540cf00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1_6
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 793
+        width: 85
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84dd1c7043bec649885af902892376a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1_7
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 793
+        width: 52
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f0fcf3beef24e4083cb7d744d19f27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1 Dead 0
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 793
+        width: 70
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab8181642d134748b50a5198293130e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1 Dead 1
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 793
+        width: 65
+        height: 70
+      alignment: 9
+      pivot: {x: 0.45, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3775d2bc3ff0bc348be8cfa100347946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1 Dead 2
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 793
+        width: 102
+        height: 29
+      alignment: 9
+      pivot: {x: 0.31, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6b533c0757e54429682e7c310cf752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1_11
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 666
+        width: 83
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc4a4b0ac2879a4a81114f33f6f36e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1_12
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 666
+        width: 83
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8cb31cf2271a647a2b26e3ef89ebf4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RifleAsalto MuzzleFlash
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 735
+        width: 25
+        height: 33
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6162873b89103364483e221a9182678d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1_14
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 726
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ecdc5a5f0c02842aa6133f0d1112be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1_15
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 725
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfcba20dc3f0f8418bfb5a031233a1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1 Run 0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 551
+        width: 77
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f231c68ac3bcae43998f69068111852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1 Run 1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 551
+        width: 68
+        height: 105
+      alignment: 9
+      pivot: {x: 0.435, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cdf37964a446943897fc8f9b16238f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1 Run 2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 551
+        width: 75
+        height: 106
+      alignment: 9
+      pivot: {x: 0.488, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37592706d0377943b8a032ca8a10569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1 Run 3
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 551
+        width: 84
+        height: 104
+      alignment: 9
+      pivot: {x: 0.53, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48dd666af234748419e49d1d2bac4b58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1 Run 4
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 551
+        width: 86
+        height: 102
+      alignment: 9
+      pivot: {x: 0.54, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70aa1c75a1c0a8b468307212f6a20a7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1 Run 5
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 551
+        width: 74
+        height: 103
+      alignment: 9
+      pivot: {x: 0.47, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5077fc05adeac7f4f82395f75c51d35e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1 Run 6
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 551
+        width: 68
+        height: 105
+      alignment: 9
+      pivot: {x: 0.42, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1303ed8785125a4abd5533456688df0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1 Run 7
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 551
+        width: 84
+        height: 104
+      alignment: 9
+      pivot: {x: 0.535, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fde231c68e7a1439719f1a37795af8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1 Run 8
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 551
+        width: 85
+        height: 102
+      alignment: 9
+      pivot: {x: 0.54, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0917923abd67fe4e9ec1c83cc936041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1 Jump 0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 425
+        width: 68
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03eb20bdd16ea44ebf6fcd3c24ba961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1 Jump 1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 425
+        width: 72
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cade440e9ebb3e459dc835ef38a64d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1 Jump 2
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 425
+        width: 75
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca65a07d398b3a44a8547e407a6bd441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1 Jump 3
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 425
+        width: 79
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5aa7f7bff91b045bf025e0c4a61e6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1 Jump 4
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 425
+        width: 75
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686ab21afe138a14fa3846f50888d21c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1_30
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 291
+        width: 72
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9085d7e5e51757441aafee37e462043c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1_31
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 291
+        width: 78
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429dc2e9d1969d1438e035c5a69ed888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1_32
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 291
+        width: 68
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466a23d94cbbb9e42acc43ce6b1c5412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1_33
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 291
+        width: 68
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884198cd679b02b48811b93353bd7c26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1 Meele 0
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 291
+        width: 71
+        height: 116
+      alignment: 9
+      pivot: {x: 0.54, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f48bfa1d7bc0a94398a328e45db10c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1 Meele 1
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 291
+        width: 92
+        height: 100
+      alignment: 9
+      pivot: {x: 0.418, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523a1b4733c648c48a0648142eaeeae5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 136
+        width: 79
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b8456f493be9746a5dbde3e71233c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1_37
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 136
+        width: 74
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc5405e9731f984089cc1c252016b9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1_38
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 136
+        width: 67
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67078652ba76bf498004adfd0eb42d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1_39
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 136
+        width: 62
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba4e567f43086d43887a8e513a8637f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1_40
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 136
+        width: 83
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53780b99083a459499f239a3da877b4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1_41
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 136
+        width: 85
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2963fc42f029e4c4c8ebc505528f273a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1_42
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 136
+        width: 85
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefad3be377553f46809b27136d1d1c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1_43
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 136
+        width: 65
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab8574f166a7df4b9157b7dc331c4b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1_44
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 136
+        width: 99
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3330d5ed817a71a4da83b51f6508ce11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1_45
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 13
+        width: 79
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440d5dce7ebb2c142ae11d2333326222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1_46
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 13
+        width: 79
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03502f5c41861549af79f855314af84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1_47
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 84
+        width: 25
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce1420472b449e469e819f18464f008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1_48
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 95
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596351495fb184749b18e5d157b86025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master-Chief1_49
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 94
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daae8bcc242b56c4b899a0b127b08be9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 44860a788b7b7dd498d8c7f5e517d82b
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+  <changes app_ver="01.01">
+    <![CDATA[
+      Following features are added.
+      <ul>
+      <li> Loads of good stuff. </li>
+      <li> More good stuff. </li>
+      <li> Fixed some bugs. </li>
+      </ul>
+    ]]>
+  </changes>
+</changeinfo>

@@ -1,0 +1,1767 @@
+fileFormatVersion: 2
+guid: ec79e72575ffc8b4a987f378e615d587
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Grunt Idle
+    21300002: Grunt Run 0
+    21300004: Grunt Run 1
+    21300006: Grunt Run 2
+    21300008: Grunt Run 3
+    21300010: Grunt Run 4
+    21300012: Grunt Run 5
+    21300014: Grunt Run 6
+    21300016: Grunt Run 7
+    21300018: The Covenant_9
+    21300020: Grunt Dead 0
+    21300022: Grunt Dead 1
+    21300024: Grunt Dead 2
+    21300026: The Covenant_14
+    21300028: The Covenant_15
+    21300030: PlasmaGreenSmall
+    21300032: Grunt Dead 3
+    21300034: The Covenant_19
+    21300036: The Covenant_20
+    21300038: The Covenant_21
+    21300040: Elite blue Idle
+    21300042: Elite blue Run 0
+    21300044: Elite blue Run 1
+    21300046: Elite blue Run 2
+    21300048: Elite blue Run 3
+    21300050: Elite blue Run 4
+    21300052: Elite blue Run 5
+    21300054: The Covenant_29
+    21300056: The Covenant_30
+    21300058: The Covenant_31
+    21300060: The Covenant_32
+    21300062: PlasmaBlu
+    21300064: The Covenant_34
+    21300066: Elite blue Dead 0
+    21300068: Elite blue Dead 1
+    21300070: The Covenant_37
+    21300072: Elite blue Dead 2
+    21300074: Grunt Red Idle
+    21300076: Grunt Red Run 0
+    21300078: Grunt Red Run 1
+    21300080: Grunt Red Run 2
+    21300082: Grunt Red Run 3
+    21300084: Grunt Red Run 4
+    21300086: Grunt Red Run 5
+    21300088: Grunt Red Run 6
+    21300090: Grunt Red Run 7
+    21300092: The Covenant_48
+    21300094: Grunt Red Dead 0
+    21300096: Grunt Red Dead 1
+    21300098: Grunt Red Dead 2
+    21300100: The Covenant_53
+    21300102: The Covenant_54
+    21300104: Grunt Red Dead 3
+    21300106: The Covenant_57
+    21300108: The Covenant_58
+    21300110: The Covenant_59
+    21300112: The Covenant_60
+    21300114: The Covenant_61
+    21300116: The Covenant_62
+    21300118: The Covenant_63
+    21300120: The Covenant_64
+    21300122: The Covenant_65
+    21300124: The Covenant_66
+    21300126: The Covenant_67
+    21300128: The Covenant_68
+    21300130: Elite Sword Idle
+    21300132: Elite Sword Attack 0
+    21300134: Elite Sword Attack 1
+    21300136: Elite Sword Dead 0
+    21300138: Elite Sword Dead 1
+    21300140: Elite Sword Dead 2
+    21300142: Elite Sword Run 0
+    21300144: Elite Sword Run 1
+    21300146: Elite Sword Run 2
+    21300148: Elite Sword Run 3
+    21300150: Elite Sword Run 4
+    21300152: Elite Sword Run 5
+    21300154: The Covenant_81
+    21300156: The Covenant_82
+    21300158: The Covenant_83
+    21300160: The Covenant_84
+    21300162: The Covenant_85
+    21300164: The Covenant_86
+    21300166: The Covenant_87
+    21300168: The Covenant_88
+    21300170: The Covenant_89
+    21300172: The Covenant_90
+    21300174: The Covenant_91
+    21300176: The Covenant_92
+    21300178: The Covenant_93
+    21300180: The Covenant_94
+    21300182: The Covenant_95
+    21300184: The Covenant_96
+    21300186: The Covenant_97
+    21300188: The Covenant_98
+    21300190: The Covenant_99
+    21300192: BulletNeedler
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: PSP2
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Grunt Idle
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1877
+        width: 76
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7448d2a58f34547ac0ab6fe88e00b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grunt Run 0
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1877
+        width: 66
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6674e8ce5dd1049bd97f6464ac68c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grunt Run 1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1877
+        width: 52
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753be7f956be2584a88b1f9e9f4fefc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grunt Run 2
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1877
+        width: 49
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2ae8d872f0f644588a6dfd5a08f72c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grunt Run 3
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1877
+        width: 56
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6f041465103bf419531c73480366dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grunt Run 4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1877
+        width: 60
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc9b31f6c53ae246ad4380818095c95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grunt Run 5
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1877
+        width: 52
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c247a24d32e26624abf5331450bc487c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grunt Run 6
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1877
+        width: 49
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc267c06b1efefb418f7c5b2f137ea1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grunt Run 7
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1877
+        width: 57
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94f9d61b84694443803e46c8b2689ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Covenant_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1780
+        width: 75
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cb02df290811742bbcf432ecafa5f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grunt Dead 0
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1780
+        width: 94
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f543a45719c637469c000c4314a9085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grunt Dead 1
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1780
+        width: 65
+        height: 76
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c40a4d77e13a84ea99145e8ae7a8d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grunt Dead 2
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1780
+        width: 70
+        height: 69
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c352a2aa6ef76104cb44aa2d1fbe1a1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Covenant_14
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1778
+        width: 56
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5957e1033008840a6db3003570ea20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Covenant_15
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1778
+        width: 67
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e9ce32cbbb28240b11c45a57116195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlasmaGreenSmall
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1819
+        width: 21
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee9212b7ad4eb643804cf3c9cf5fa0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grunt Dead 3
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1780
+        width: 86
+        height: 55
+      alignment: 9
+      pivot: {x: 0.06, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fa1dc48735131428eeb8661bea2ca7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Covenant_19
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1658
+        width: 123
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b953ac411299e1445bbd536384064feb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Covenant_20
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1658
+        width: 138
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6805c63de45e76541be6142519933719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Covenant_21
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1658
+        width: 123
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33a40bb579ccc8438bf04d7d2bc819b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite blue Idle
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1523
+        width: 97
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e11eee4014f33046a82c160cf97f7e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite blue Run 0
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1523
+        width: 79
+        height: 118
+      alignment: 9
+      pivot: {x: 0.59, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4834279ddb7dd342aac8e8173aaeaf7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite blue Run 1
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1521
+        width: 72
+        height: 121
+      alignment: 9
+      pivot: {x: 0.61, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636696deaf8b5454790f20529b08a2c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite blue Run 2
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1521
+        width: 86
+        height: 115
+      alignment: 9
+      pivot: {x: 0.47, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc249d46725854429cec1e60acabb68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite blue Run 3
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1521
+        width: 80
+        height: 118
+      alignment: 9
+      pivot: {x: 0.57, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444c3f4ca52772c44966a0cd054a23eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite blue Run 4
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1521
+        width: 78
+        height: 121
+      alignment: 9
+      pivot: {x: 0.585, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b0325d556c27e44840d819607b4831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite blue Run 5
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1521
+        width: 97
+        height: 115
+      alignment: 9
+      pivot: {x: 0.545, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6a51121ec1e3c4083e7747f6303f42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Covenant_29
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1521
+        width: 82
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4daa951672443f468c72e279c18cbed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Covenant_30
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1521
+        width: 130
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0961793108001e642ab1c3abc24b50ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Covenant_31
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1390
+        width: 82
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42511e9569fafa438669189d91c44ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Covenant_32
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1390
+        width: 111
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaafed91f22225c4ba0424b78854528e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlasmaBlu
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1451
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62a30de01cf9e0409b7922db60d4198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Covenant_34
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1390
+        width: 97
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e41939a561872147abc4b185e96f467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite blue Dead 0
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1390
+        width: 74
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e675f80182d8d924fad625e6f7f55a18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite blue Dead 1
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1390
+        width: 98
+        height: 90
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64971c1c09a5123489ddfde11ccff9da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Covenant_37
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1390
+        width: 97
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ca8dd66941d414fb7822e54349c299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite blue Dead 2
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1390
+        width: 119
+        height: 45
+      alignment: 9
+      pivot: {x: 0.17, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91be665f51446bc42b0ee71acd9c2432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grunt Red Idle
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1290
+        width: 78
+        height: 81
+      alignment: 9
+      pivot: {x: 0.62, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74015977d4ceb749b9603fbda6b29cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grunt Red Run 0
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1290
+        width: 68
+        height: 78
+      alignment: 9
+      pivot: {x: 0.56, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0489c6346dcef6344ad7eb97ef6f6737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grunt Red Run 1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1290
+        width: 55
+        height: 79
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc605947319a274fb0e8a8e579c1e0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grunt Red Run 2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1290
+        width: 49
+        height: 82
+      alignment: 9
+      pivot: {x: 0.59, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4ebeff64f504a4a87722a55804cac9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grunt Red Run 3
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1290
+        width: 56
+        height: 79
+      alignment: 9
+      pivot: {x: 0.54, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36e1fb10154c6742ab0ff2b9d96f764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grunt Red Run 4
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1290
+        width: 60
+        height: 78
+      alignment: 9
+      pivot: {x: 0.54, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c57bb3eff4ac99449a0ae78586c186f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grunt Red Run 5
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1290
+        width: 52
+        height: 79
+      alignment: 9
+      pivot: {x: 0.62, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60e6d44834ad0343890b8ae4093f992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grunt Red Run 6
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1290
+        width: 49
+        height: 82
+      alignment: 9
+      pivot: {x: 0.63, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ebc6cb8f9fe0445a8de839a09b9963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grunt Red Run 7
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1290
+        width: 59
+        height: 79
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75096d100a726234485e15c8a1e67af3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Covenant_48
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1197
+        width: 79
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82818c361bad63742b24948293b41f77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grunt Red Dead 0
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1198
+        width: 94
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91369926d73cb3d49b5261bca1cb14a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grunt Red Dead 1
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1198
+        width: 65
+        height: 76
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37328ec177d715d42a949eee7fe4f985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grunt Red Dead 2
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1198
+        width: 70
+        height: 69
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ff2f8127b08af4faa57b7431c56deb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Covenant_53
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1197
+        width: 56
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0aa2722c96d2a44c89758f585bc15bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Covenant_54
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1197
+        width: 67
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefa4ef98656f0b49b08f9d539eec5c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grunt Red Dead 3
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1198
+        width: 86
+        height: 55
+      alignment: 9
+      pivot: {x: 0.06, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907d366c704cf85469a9a6a7ebb0b264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Covenant_57
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1094
+        width: 82
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036f0bfee2d12124491b60c435b0e545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Covenant_58
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1094
+        width: 81
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f7449a6b9f65b42883d02abbbaf613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Covenant_59
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1094
+        width: 76
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f66d981effb0a14b9b2adcef7c95d90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Covenant_60
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1094
+        width: 88
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de00ddf483b9a9a4aaeaadab9d8f48cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Covenant_61
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1094
+        width: 81
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375854d92e41a62429cb8ae61bf642fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Covenant_62
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1094
+        width: 75
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b7b663a6b38d14e9ebb76fd66f62e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Covenant_63
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1094
+        width: 89
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41389a3728d0bd340a43726ea37d6416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Covenant_64
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1034
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3ea7cc387f6cd429845a1d7a5bc98e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Covenant_65
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 997
+        width: 82
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550e6aaae1b31d548984752e3521bb2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Covenant_66
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 997
+        width: 66
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7661a7088eea5eb4181d723e4aaac2b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Covenant_67
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 997
+        width: 77
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16e36aac2b3c6e4d83ec743cc1ccf20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Covenant_68
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 997
+        width: 97
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff36bc8bab50f7418670fdba9ae74b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite Sword Idle
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 819
+        width: 126
+        height: 123
+      alignment: 9
+      pivot: {x: 0.68, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40ec31c7c5a5914ab34543ca6861d79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite Sword Attack 0
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 819
+        width: 82
+        height: 161
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338a4a072ef7dfa49ae83173ea5e6069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite Sword Attack 1
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 819
+        width: 163
+        height: 106
+      alignment: 9
+      pivot: {x: 0.72, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f850006ca917a4b9f51a14719ff387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite Sword Dead 0
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 819
+        width: 74
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29274d245e974e34d8122c9238f17c40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite Sword Dead 1
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 819
+        width: 98
+        height: 90
+      alignment: 9
+      pivot: {x: 0.07, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df90499a5bab6f4409d6d26d1a06c2c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite Sword Dead 2
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 819
+        width: 119
+        height: 45
+      alignment: 9
+      pivot: {x: 0.02, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de8ba8055d631040a4a65450a0c8426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite Sword Run 0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 678
+        width: 117
+        height: 116
+      alignment: 9
+      pivot: {x: 0.77, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04289f478a8ce4c4ca38a8b25d92903f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite Sword Run 1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 677
+        width: 114
+        height: 126
+      alignment: 9
+      pivot: {x: 0.79, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9e6aa5be1625046b2c57cac8f0a4b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite Sword Run 2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 677
+        width: 137
+        height: 113
+      alignment: 9
+      pivot: {x: 0.68, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d8783dbb4c16a469d054d1248db63d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite Sword Run 3
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 675
+        width: 120
+        height: 116
+      alignment: 9
+      pivot: {x: 0.77, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9540c1bffa766bb4aaeac90c80648f72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite Sword Run 4
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 674
+        width: 115
+        height: 126
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d463ae53275a8942a6d4285b7e99e26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite Sword Run 5
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 674
+        width: 135
+        height: 113
+      alignment: 9
+      pivot: {x: 0.68, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acbe71fbc77e604b963c3461c5fbc2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletNeedler
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1239
+        width: 15
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512187027a2d73849b3d34ed28693285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 47a228d95e8c5ad42bddc102a3597ecc
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

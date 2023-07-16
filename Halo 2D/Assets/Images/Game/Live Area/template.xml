@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<livearea style="a2" format-ver="01.03" content-rev="0">
+  <livearea-background>
+    <image>bg0.png</image>
+  </livearea-background>
+  <gate>
+    <startup-image>Startup.png</startup-image>
+  </gate>
+  <frame id="frame1" multi="o" autoflip="0">
+    <liveitem default="on">
+      <background>frame1.png</background>
+      <target>https://www.youtube.com/c/VEGETTOSAN</target>
+    </liveitem>
+  </frame>
+  <frame id="frame2" multi="o" autoflip="0">
+    <liveitem default="on">
+      <background>frame2.png</background>
+      <target>https://sites.google.com/view/vegettosandev/main</target>
+    </liveitem>
+  </frame>
+  <frame id="frame3" />
+</livearea>

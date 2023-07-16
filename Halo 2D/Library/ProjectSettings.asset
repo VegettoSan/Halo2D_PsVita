@@ -506,7 +506,7 @@ PlayerSettings:
   psp2ManualPath: 
   psp2LiveAreaGatePath: Assets/Images/Game/Live Area/Startup.png
   psp2LiveAreaBackroundPath: Assets/Images/Game/Live Area/bg0.png
-  psp2LiveAreaPath: 
+  psp2LiveAreaPath: Assets/Images/Game/Live Area
   psp2LiveAreaTrialPath: 
   psp2PatchChangeInfoPath: 
   psp2PatchOriginalPackage: 

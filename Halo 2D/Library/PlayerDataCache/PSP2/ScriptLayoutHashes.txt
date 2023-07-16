@@ -1,6 +1,6 @@
 PSP2
 PlayerPath?
-D:/PS Vita/Proyectos Unity/Halo 2D/DemoGame/Halo 2D
+D:/PS Vita/Proyectos Unity/Halo2D_PsVita/Halo 2D/DemoGame/Halo 2D
 SceneListBegin?
 Assets/Scenes/MainMenu.unity
 Assets/Scenes/Game.unity
@@ -184,6 +184,7 @@ fc061f3ae8a876c0687e86378d4a447c UnityEngine.Networking.dll:UnityEngine.Networki
 e8359e2e2875638f4ec06e85e7a5b8cf Assembly-CSharp.dll:.MusicFondoAleatoria
 4d525d38a2de76cbf61493fb430e3aee Assembly-CSharp.dll:.Pause
 8500486a8915f4aa57ba3e70bcf71ad6 Assembly-CSharp.dll:.MicrophoneReaction
+486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.MeelePlayer
 63d8b71f23af7960d955f891fa30f285 Assembly-CSharp.dll:.PlayerController
 511da3b825ff41d5c86e78edaf0279e3 Assembly-CSharp.dll:.SpawnItems
 2e0adf28f8d706f197133c781ad9e648 Assembly-CSharp.dll:.CameraFollow

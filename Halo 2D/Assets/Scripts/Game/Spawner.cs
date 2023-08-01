@@ -59,7 +59,7 @@ public class Spawner : MonoBehaviour
 				PocionesSpawn[a].rotation);
             if (Bot)
             {
-				E.GetComponent<GruntHealth>().Health = Health;
+				E.GetComponent<EnemyHealth>().Health = Health;
 			}
 			Timer = Time.time + Tiempo;
 		}

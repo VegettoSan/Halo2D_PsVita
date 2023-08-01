@@ -1,6 +1,6 @@
 PSP2
 PlayerPath?
-D:/PS Vita/Proyectos Unity/Halo2D_PsVita/Halo 2D/DemoGame/Halo 2D
+D:/PS Vita/Proyectos Unity/Halo2D_PsVita/Halo 2D/DemoGame/Halo2D
 SceneListBegin?
 Assets/Scenes/MainMenu.unity
 Assets/Scenes/Game.unity
@@ -186,7 +186,7 @@ e8359e2e2875638f4ec06e85e7a5b8cf Assembly-CSharp.dll:.MusicFondoAleatoria
 8500486a8915f4aa57ba3e70bcf71ad6 Assembly-CSharp.dll:.MicrophoneReaction
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.MeelePlayer
 63d8b71f23af7960d955f891fa30f285 Assembly-CSharp.dll:.PlayerController
-511da3b825ff41d5c86e78edaf0279e3 Assembly-CSharp.dll:.SpawnItems
+6e8993fd87c2de7dfa764f87f13cc31e Assembly-CSharp.dll:.SpawnItems
 2e0adf28f8d706f197133c781ad9e648 Assembly-CSharp.dll:.CameraFollow
 1e274138c0f2ebd25d6745b81c6acbb6 Assembly-CSharp.dll:.FireBulletsPlayer
 72a8523b432c0a5317826b7a9e0a0e79 Unity.TextMeshPro.dll:TMPro.PackageResourceImporterWindow
@@ -217,7 +217,6 @@ dfd33ff9ae3ce8d7ca1f22b475ec2387 UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 aac9c55ae7ba4b95b852a7d9c191acd1 Unity.TextMeshPro.dll:TMPro.TextMeshProUGUI
 5b23eb1e573f156deea0efdbed79e858 Assembly-CSharp.dll:.FootSteps
 0a006f3734181ba8b26758f0866152c0 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
-444a687297df599a7278c41a50194db0 Assembly-CSharp.dll:.GruntHealth
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:TouchControlsKit.TouchManagerBase
 3271cb25577a55c0a0e1e821891199db Assembly-CSharp.dll:.GameManager
 cebbfb50f55e41d7821daf64b91c01ea Assembly-CSharp.dll:.EnemyController
@@ -244,3 +243,6 @@ bee0d0defbc39e42affad78f52edaa6e Assembly-CSharp.dll:.Rounds
 faa96e3856a8a0b73b6767089ae8ccf8 Assembly-CSharp.dll:.PoolingWarningRifle
 ae02837a4307026be7e6ea8ba6994c66 Assembly-CSharp.dll:.AttackEliteSword
 15a331e22e8523441b2a2d7792dc5012 Assembly-CSharp.dll:.PoolingPlasmaBullets
+a8e8dae08c85a2cdf41e693e0afbd480 Assembly-CSharp.dll:.RoundManager
+209d231c9849347c80d05bc41465869f Assembly-CSharp.dll:.RoundCurrent
+444a687297df599a7278c41a50194db0 Assembly-CSharp.dll:.EnemyHealth

@@ -15,6 +15,7 @@ TagManager:
   - Rifle
   - HealthPack
   - MeeleSpartan
+  - SpawnEnemy
   layers:
   - Default
   - TransparentFX

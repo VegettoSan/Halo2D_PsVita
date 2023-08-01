@@ -74,6 +74,7 @@ public class HealthPlayer : MonoBehaviour
         if (Health <= 0)
         {
             Anim.SetBool("Death", true);
+            Dead();
         }
 #if UNITY_EDITOR
         if (Input.GetKeyDown(KeyCode.O))
@@ -114,7 +115,7 @@ public class HealthPlayer : MonoBehaviour
         hud.SetActive(false);
         GameOver.SetActive(true);
         TargetCamera.localPosition = new Vector3(0f, 1f, 0f);
-        Source.PlayOneShot(Death);
+        //Source.PlayOneShot(Death);
         Rig.simulated = false;
         Collider.enabled = false;
         Controller.enabled = false;

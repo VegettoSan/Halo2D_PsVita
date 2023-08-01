@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class GruntHealth : MonoBehaviour
+public class EnemyHealth : MonoBehaviour
 {
     enum Character { Grunt, Elite, EliteSword }
     [SerializeField]

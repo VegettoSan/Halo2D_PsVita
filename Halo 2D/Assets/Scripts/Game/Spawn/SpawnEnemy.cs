@@ -46,8 +46,8 @@ public class SpawnEnemy : MonoBehaviour {
             spawnedObject.GetComponent<CapsuleCollider2D>().enabled = true;
             spawnedObject.GetComponent<Rigidbody2D>().simulated = true;
             spawnedObject.GetComponent<EnemyController>().enabled = true;
-            spawnedObject.GetComponent<GruntHealth>().enabled = true;
-            spawnedObject.GetComponent<GruntHealth>().Health = Health;
+            spawnedObject.GetComponent<EnemyHealth>().enabled = true;
+            spawnedObject.GetComponent<EnemyHealth>().Health = Health;
             spawnedObject.GetComponent<FireEnemy>().enabled = true;
 
             spawnedObject.SetActive(true);

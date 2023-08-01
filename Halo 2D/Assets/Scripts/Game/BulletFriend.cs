@@ -26,7 +26,7 @@ public class BulletFriend : MonoBehaviour
     {
         if (collision.CompareTag("Grunt"))
         {
-            GruntHealth G = collision.gameObject.GetComponent<GruntHealth>();
+            EnemyHealth G = collision.gameObject.GetComponent<EnemyHealth>();
             if(G != null)
             {
                 G.Damage(Damage);
@@ -34,7 +34,7 @@ public class BulletFriend : MonoBehaviour
         }
         if (collision.CompareTag("Elite") || collision.CompareTag("EliteSword"))
         {
-            GruntHealth E = collision.gameObject.GetComponent<GruntHealth>();
+            EnemyHealth E = collision.gameObject.GetComponent<EnemyHealth>();
             if (E != null)
             {
                 E.Damage(Damage);

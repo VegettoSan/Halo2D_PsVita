@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class SpawnItems : MonoBehaviour {
+public class SpawnItems : MonoBehaviour
+{
 
     public GameObject[] Items;
     public Transform[] PositionsSpawn;
@@ -10,6 +11,7 @@ public class SpawnItems : MonoBehaviour {
     public float Timer = 5f;
 
     GameObject[] TotalRifle, TotalHealthPack;
+    public int MaxRifle, MaxHealthPack;
     int TotalSpawn;
 
     private void Start()
@@ -34,14 +36,29 @@ public class SpawnItems : MonoBehaviour {
 
         TotalSpawn = TotalRifle.Length + TotalHealthPack.Length;
 
+        int i = UnityEngine.Random.Range(0, Items.Length);
+        int p = UnityEngine.Random.Range(0, PositionsSpawn.Length);
+
         if (TotalSpawn < Total)
         {
-            int i = UnityEngine.Random.Range(0, Items.Length);
-            int p = UnityEngine.Random.Range(0, PositionsSpawn.Length);
-
-            GameObject spawnedObject = PoolingItems.Instance.GetObjectFromPool(Items[i]);
-            spawnedObject.transform.position = PositionsSpawn[p].position;
-            spawnedObject.SetActive(true);
+            if (TotalRifle.Length <= MaxRifle && TotalHealthPack.Length <= MaxHealthPack)
+            {
+                GameObject spawnedObject = PoolingItems.Instance.GetObjectFromPool(Items[i]);
+                spawnedObject.transform.position = PositionsSpawn[p].position;
+                spawnedObject.SetActive(true);
+            }
+            if(TotalRifle.Length >= MaxRifle)
+            {
+                GameObject spawnedObject = PoolingItems.Instance.GetObjectFromPool(Items[0]);
+                spawnedObject.transform.position = PositionsSpawn[p].position;
+                spawnedObject.SetActive(true);
+            }
+            else if (TotalHealthPack.Length >= MaxHealthPack)
+            {
+                GameObject spawnedObject = PoolingItems.Instance.GetObjectFromPool(Items[1]);
+                spawnedObject.transform.position = PositionsSpawn[p].position;
+                spawnedObject.SetActive(true);
+            }
         }
     }
 }

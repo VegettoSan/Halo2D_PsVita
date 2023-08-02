@@ -2,6 +2,8 @@
 
 This is a project inspired by the Halo saga which I have been developing in a short time.
 
+You have to try to survive as long as you can while being attacked by enemy forces of the covenant, each round is more difficult than the last.
+
 You can see my other projects [HERE!](https://sites.google.com/view/vegettosandev/main)
 
 # **HOW TO INSTALL?**

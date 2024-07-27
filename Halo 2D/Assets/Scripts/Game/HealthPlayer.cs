@@ -162,7 +162,7 @@ public class HealthPlayer : MonoBehaviour
         }
         if (collision.CompareTag("SwordElite"))
         {
-            Damage(50);
+            Damage(30);
         }
     }
 }

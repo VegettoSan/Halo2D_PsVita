@@ -109,7 +109,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 11
+  controlID: 123
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -133,7 +133,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 12
+  controlID: 79
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -157,7 +157,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 95
+  controlID: 30
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -201,8 +201,8 @@ MonoBehaviour:
     y: 0
     width: 658
     height: 374
-  m_MinSize: {x: 204, y: 221}
-  m_MaxSize: {x: 4004, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 12}
   m_Panes:
   - {fileID: 14}
@@ -371,7 +371,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 7044ddff1845ddff1063ddff2463ddfffac5ddff00c6ddff1ebcdeff0007e1fffe4fe1ff0a50e1ff4aa5e2ff581ae3ff4abfe3ff20c9e4ffb8cde4ffcc3ae9ff3c3fe9ffd207f5ff3248f6ff424bf6ff26c6f6fffe62f7ffe482f7fff2abf7ff044df8ff2690f8ffd82bfeffda2bfeff7e4bfeff9caffeff20dbffffe4fbffff00000000b0470000bede0000d80f01001a4b01007a4c01006e4e01005a510100288a070078920700f23c0a00f6410a00
+    m_ExpandedIDs: 66c7fdff12c8fdff0ee6fdff26e6fdfff002feffdc22feff7648feff84d9ffffe4fbffff000000007c47000030150100341a0100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -467,7 +467,7 @@ MonoBehaviour:
     speed: 2
     m_Value: 1
   m_ShowGlobalGrid: 1
-  m_LastSceneViewRotation: {x: 0.44162267, y: 0.017493485, z: -0.008612714, w: 0.896989}
+  m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
@@ -713,10 +713,10 @@ MonoBehaviour:
       e32: 0
       e33: 1
   m_PreviewAnimator: {fileID: 0}
-  m_AnimatorController: {fileID: 9100000, guid: b0248cc4e3ffb9140888f4b59af7a4b0,
+  m_AnimatorController: {fileID: 9100000, guid: bee2c7f0fe66df94996f43a873b11b93,
     type: 2}
   m_BreadCrumbs:
-  - m_Target: {fileID: 1107245877809346178, guid: b0248cc4e3ffb9140888f4b59af7a4b0,
+  - m_Target: {fileID: 1107317161161884336, guid: bee2c7f0fe66df94996f43a873b11b93,
       type: 2}
     m_ScrollPosition: {x: 0, y: 0}
   stateMachineGraph: {fileID: 0}
@@ -792,20 +792,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs/Player
+    - Assets/Scenes
   m_ViewMode: 1
   m_StartGridSize: 67
   m_LastFolders:
-  - Assets/Prefabs/Player
+  - Assets/Scenes
   m_LastFoldersGridSize: 67
   m_LastProjectPath: D:\PS Vita\Proyectos Unity\Halo2D_PsVita\Halo 2D
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 447.02774}
-    m_SelectedIDs: f80b0000
-    m_LastClickedID: 3064
-    m_ExpandedIDs: 00000000460a0000be0a0000740b0000ba0b0000f00f0000401000003212000000ca9a3b
+    scrollPos: {x: 0, y: 566.6833}
+    m_SelectedIDs: e40a0000
+    m_LastClickedID: 2788
+    m_ExpandedIDs: 00000000480a0000c00a0000840b0000cc0b000006100000561000005412000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -833,7 +833,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000460a0000ba0b0000f00f000032120000
+    m_ExpandedIDs: 00000000480a0000c00a0000840b0000cc0b0000061000005610000054120000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 

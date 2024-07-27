@@ -62,9 +62,9 @@ public class RoundManager : MonoBehaviour
         {
             if (currentRound < 10)
             {
-                e = UnityEngine.Random.Range(0, 2);
+                e = UnityEngine.Random.Range(0, 5);
             }
-            if (currentRound >= 10)
+            if (currentRound >= 5)
             {
                 e = UnityEngine.Random.Range(0, Enemy.Length);
             }

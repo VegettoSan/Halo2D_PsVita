@@ -1,6 +1,6 @@
 PSP2
 PlayerPath?
-D:/PS Vita/Proyectos Unity/Halo2D_PsVita/Halo 2D/DemoGame/Halo2D
+D:/PS Vita/Proyectos Unity/Halo2D_PsVita/Halo 2D/DemoGame/Nueva carpeta
 SceneListBegin?
 Assets/Scenes/MainMenu.unity
 Assets/Scenes/Game.unity
@@ -151,6 +151,7 @@ acb8a5e02a3fee9735cd0e300b1ea5bb Assembly-CSharp.dll:.Score
 2442bd6bfd91f6db9f4bc6790c0dee2d Assembly-CSharp.dll:.LimitedFrame
 ccfb133f22aa1304a40271332062d19f Assembly-CSharp.dll:.VersionApp
 f16835701e71dd5d6fb1fed4b7aff1d8 Unity.TextMeshPro.dll:TMPro.TMP_Asset
+7beb6faab8eb26dcaf3b8cff80792ead Assembly-CSharp.dll:.BulletEnemyLookAt
 dd18ad5bb3eca4dcf8caf9e7abd5f9cf Assembly-CSharp.dll:.Spawner
 faa96e3856a8a0b73b6767089ae8ccf8 Assembly-CSharp.dll:.PoolingWarningHealthPack
 bfbea9d35b9813f201dea405c2a01319 Assembly-CSharp.dll:.BarraDeCargaEscena
@@ -246,4 +247,3 @@ bee0d0defbc39e42affad78f52edaa6e Assembly-CSharp.dll:.Rounds
 faa96e3856a8a0b73b6767089ae8ccf8 Assembly-CSharp.dll:.PoolingWarningRifle
 ae02837a4307026be7e6ea8ba6994c66 Assembly-CSharp.dll:.AttackEliteSword
 15a331e22e8523441b2a2d7792dc5012 Assembly-CSharp.dll:.PoolingPlasmaBullets
-7beb6faab8eb26dcaf3b8cff80792ead Assembly-CSharp.dll:.BulletEnemyLookAt

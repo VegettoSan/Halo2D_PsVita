@@ -603,9 +603,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   h: 0
   maxSpeed: 4
-  speed: 250
+  speed: 210
   grounded: 0
-  Retroceder: 1
+  Retroceder: 0
   ddistance: 0
   DistanceBack: 0
   DistanceStop: 2

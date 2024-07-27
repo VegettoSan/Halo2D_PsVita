@@ -17,7 +17,7 @@ public class EnemyController : MonoBehaviour
 	public bool Retroceder;
 	private float Distancee;
 	public float ddistance;
-	public float DistanceStop, DistanceFire, DistanceMax;
+	public float DistanceBack, DistanceStop, DistanceFire, DistanceMax;
 	private bool movement = true;
 	public string[] EnemysTags;
 	public GameObject Target;
@@ -34,6 +34,7 @@ public class EnemyController : MonoBehaviour
 		//FireController = GetComponent<FireEnemy>();
 
 		anim.SetBool("Attack", false);
+		anim.SetBool("Back", false);
 	}
 
 
@@ -49,6 +50,7 @@ public class EnemyController : MonoBehaviour
 				Target = null;
 				WithTarget = false;
 				anim.SetBool("Attack", false);
+				anim.SetBool("Back", false);
 			}
 			else if (Target.tag != "null")
 			{
@@ -73,10 +75,12 @@ public class EnemyController : MonoBehaviour
 						LookForward();
 					}
 					anim.SetBool("Attack", false);
+					anim.SetBool("Back", false);
 				}
 				if (Distancee <= DistanceFire && Distancee > DistanceStop)
 				{
 					anim.SetBool("Attack", false);
+					anim.SetBool("Back", false);
 					if (FireController != null)
 					{
 						FireController.Fire = true;
@@ -85,29 +89,67 @@ public class EnemyController : MonoBehaviour
 				else if (Distancee > DistanceFire)
 				{
 					anim.SetBool("Attack", false);
+					anim.SetBool("Back", false);
 					if (FireController != null)
 					{
 						FireController.Fire = false;
 					}
 				}
-				if (Distancee <= DistanceStop)
+				if (!Retroceder)
 				{
-					anim.SetBool("Attack", true);
-					h = 0;
-					if (Target.transform.position.x < transform.position.x)
+					if (Distancee <= DistanceStop)
 					{
-						LookBack();
-					}
-					else if (Target.transform.position.x > transform.position.x)
-					{
-						LookForward();
+						anim.SetBool("Attack", true);
+						anim.SetBool("Back", false);
+						h = 0;
+						if (Target.transform.position.x < transform.position.x)
+						{
+							LookBack();
+						}
+						else if (Target.transform.position.x > transform.position.x)
+						{
+							LookForward();
+						}
 					}
 				}
+                else
+                {
+					if (Distancee <= DistanceStop && Distancee > DistanceBack)
+					{
+						anim.SetBool("Attack", true);
+						anim.SetBool("Back", false);
+						h = 0;
+						if (Target.transform.position.x < transform.position.x)
+						{
+							LookBack();
+						}
+						else if (Target.transform.position.x > transform.position.x)
+						{
+							LookForward();
+						}
+					}
+					if (Distancee <= DistanceBack)
+					{
+						anim.SetBool("Attack", false);
+						anim.SetBool("Back", true);
+						
+						if (Target.transform.position.x < transform.position.x)
+						{
+							h = 1;
+							LookBack();
+						}
+						else if (Target.transform.position.x > transform.position.x)
+						{
+							h = -1;
+							LookForward();
+						}
+					}
+				}
+
 			}
-			
-        }
-        else
-        {
+		}
+		else
+		{
 			anim.SetBool("Attack", false);
 			if (FireController != null)
 			{

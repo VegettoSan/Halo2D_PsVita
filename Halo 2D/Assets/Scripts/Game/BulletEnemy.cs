@@ -39,4 +39,9 @@ public class BulletEnemy : MonoBehaviour
         }*/
         this.gameObject.SetActive(false);
     }
+
+    void OnBecameInvisible()
+    {
+        this.gameObject.SetActive(false);
+    }
 }

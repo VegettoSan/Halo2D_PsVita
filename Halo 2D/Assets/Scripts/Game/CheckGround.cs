@@ -6,11 +6,13 @@ public class CheckGround : MonoBehaviour
 {
 
 	PlayerController player;
+	MeelePlayer melee;
 
 	void Start()
 	{
 
 		player = GetComponent<PlayerController> ();
+		melee = GetComponent<MeelePlayer> ();
 
 	}
 
@@ -29,6 +31,7 @@ public class CheckGround : MonoBehaviour
 		{
 
 			player.grounded = true;
+			melee.grounded = true;
 
 		}
 	}
@@ -43,6 +46,7 @@ public class CheckGround : MonoBehaviour
 		{
 
 			player.grounded = false;
+			melee.grounded = false;
 
 		}
 	}

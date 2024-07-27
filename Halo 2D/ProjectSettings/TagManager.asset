@@ -16,6 +16,7 @@ TagManager:
   - HealthPack
   - MeeleSpartan
   - SpawnEnemy
+  - SwordElite
   layers:
   - Default
   - TransparentFX
@@ -33,7 +34,7 @@ TagManager:
   - Items
   - ItemsCollect
   - MeeleSpartan
-  - 
+  - SwordElite
   - 
   - 
   - 

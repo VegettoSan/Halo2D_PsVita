@@ -36,7 +36,11 @@ public class FireEnemy : MonoBehaviour
             NextBullet = Time.time + 1 / Cadencia;
             GameObject spawnedObject = PoolingPlasmaBullets.Instance.GetObjectFromPool(Bullet);
             spawnedObject.transform.position = Origin.position;
-            //spawnedObject.transform.rotation = Origin.rotation;
+            spawnedObject.transform.eulerAngles = Vector3.zero;
+            if (spawnedObject.GetComponentInChildren<BulletEnemyLookAt>() != null)
+            {
+                spawnedObject.GetComponentInChildren<BulletEnemyLookAt>().Direction = transform.localScale.x;
+            }
             spawnedObject.SetActive(true);
             Rigidbody2D clone = spawnedObject.GetComponent<Rigidbody2D>();
             clone.velocity = Origin.TransformDirection(Vector2.right * Speed);
@@ -49,6 +53,8 @@ public class FireEnemy : MonoBehaviour
             {
                 clone.transform.localScale = new Vector3(1f, 1f, 0f);
             }
+
+            spawnedObject = null;
         }
     }
 }

@@ -31,6 +31,7 @@ public class EnemyHealth : MonoBehaviour
     {
         if (Health <= 0)
         {
+            Controller.Retroceder = false;
             Anim.SetBool("Death", true);
         }
     }
@@ -72,5 +73,14 @@ public class EnemyHealth : MonoBehaviour
         //Destroy(this.gameObject);
         this.gameObject.SetActive(false);
     }
+
+    /*private void OnTriggerStay2D(Collider2D collision)
+    {
+        if (collision.CompareTag("MeeleSpartan"))
+        {
+            Health = 0;
+            Damage(300);
+        }
+    }*/
 }
 

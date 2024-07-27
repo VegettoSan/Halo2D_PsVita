@@ -10,6 +10,7 @@ public class HealthPlayer : MonoBehaviour
 
     public GameObject ShieldHit, HealthHit, HealtPackHit;
     public Slider _Shield, _Health;
+    public float velocidadCambio = 0.5f; // Velocidad de cambio (ajústala según tus necesidades)
     public int Health = 500, Shield = 300;
     public int Seconds = 3;
     public AudioClip HitShield, ReloadShield;
@@ -40,8 +41,10 @@ public class HealthPlayer : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        float ValueShield = Mathf.Lerp(_Shield.value, Shield, velocidadCambio * Time.deltaTime);
+
         _Health.value = Health;
-        _Shield.value = Shield;
+        _Shield.value = ValueShield;
 
         Shield = Mathf.Clamp(Shield, 0, 100);
         Health = Mathf.Clamp(Health, 0, 150);
@@ -157,9 +160,9 @@ public class HealthPlayer : MonoBehaviour
                 collision.transform.parent.gameObject.SetActive(false);
             }
         }
-        /*if (collision.CompareTag("SwordElite"))
+        if (collision.CompareTag("SwordElite"))
         {
-            Damage(100);
-        }*/
+            Damage(50);
+        }
     }
 }

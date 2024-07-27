@@ -7,7 +7,7 @@ public class Score : MonoBehaviour
 {
     public static Score include;
     public int ScoreMax, ScoreTotal, Elite, Grunt;
-    public TMP_Text _scoreMax, _scoreTotal, _elite, _grunt;
+    public TMP_Text _scoreMax, _scoreMaxGame, _scoreTotal, _elite, _grunt;
 
     private void Awake()
     {
@@ -29,6 +29,7 @@ public class Score : MonoBehaviour
         ScoreTotal = Elite + Grunt;
 
         _scoreMax.text = ScoreMax.ToString();
+        _scoreMaxGame.text = ScoreMax.ToString();
         _scoreTotal.text = ScoreTotal.ToString();
         _elite.text = Elite.ToString();
         _grunt.text = Grunt.ToString();

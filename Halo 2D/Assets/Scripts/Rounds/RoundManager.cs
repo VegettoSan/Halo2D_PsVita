@@ -7,7 +7,7 @@ public class RoundManager : MonoBehaviour
 {
     public static RoundManager Instance;
 
-    public TMP_Text Text;
+    public TMP_Text Text, TextGame;
 
     public GameObject[] Enemy; // El prefab que se instanciará en cada ronda
     public List<Transform> spawnLocations; // La lista de ubicaciones donde se pueden instanciar los clones del prefab
@@ -19,6 +19,8 @@ public class RoundManager : MonoBehaviour
     public int currentRound = 0; // La ronda actual
     private int currentSpawnCount; // La cantidad de clones del prefab que se instanciarán en la ronda actual
     private List<GameObject> spawnedObjects = new List<GameObject>(); // La lista de objetos instanciados en la ronda actual
+
+    int e;
 
     private void Awake()
     {
@@ -50,6 +52,7 @@ public class RoundManager : MonoBehaviour
             currentRound++; // Incrementa el contador de rondas
             currentSpawnCount += spawnIncrement; // Incrementa la cantidad de clones del prefab que se instanciarán en la siguiente ronda
             Text.text = currentRound.ToString();
+            TextGame.text = currentRound.ToString();
         }
     }
 
@@ -57,7 +60,14 @@ public class RoundManager : MonoBehaviour
     {
         for (int i = 0; i < currentSpawnCount; i++) // Ciclo para instanciar todos los clones del prefab para la ronda actual
         {
-            int e = UnityEngine.Random.Range(0, Enemy.Length);
+            if (currentRound < 10)
+            {
+                e = UnityEngine.Random.Range(0, 2);
+            }
+            if (currentRound >= 10)
+            {
+                e = UnityEngine.Random.Range(0, Enemy.Length);
+            }
             int p = UnityEngine.Random.Range(0, spawnLocations.Count);
 
             GameObject spawnedObject = PoolingEnemy.Instance.GetObjectFromPool(Enemy[e]); // Instancia un clone del prefab en la ubicación seleccionada
@@ -73,12 +83,21 @@ public class RoundManager : MonoBehaviour
             {
                 case "Grunt":
                     spawnedObject.GetComponent<EnemyHealth>().Health = 100;
+                    spawnedObject.GetComponent<EnemyController>().Retroceder = true;
                     break;
                 case "Elite":
                     spawnedObject.GetComponent<EnemyHealth>().Health = 200;
+                    spawnedObject.GetComponent<EnemyController>().Retroceder = true;
+                    break;
+                case "EliteSword":
+                    spawnedObject.GetComponent<EnemyHealth>().Health = 300;
+                    spawnedObject.GetComponent<EnemyController>().Retroceder = true;
                     break;
             }
-            spawnedObject.GetComponent<FireEnemy>().enabled = true;
+            if(spawnedObject.GetComponent<FireEnemy>() != null)
+            {
+                spawnedObject.GetComponent<FireEnemy>().enabled = true;
+            }
 
             spawnedObject.SetActive(true);
             yield return new WaitForSeconds(Random.Range(2f, 5f)); // Espera un tiempo aleatorio entre 2 y 5 segundos antes de instanciar el siguiente clone del prefab

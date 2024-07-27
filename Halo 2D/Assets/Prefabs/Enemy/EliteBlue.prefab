@@ -594,8 +594,9 @@ MonoBehaviour:
   maxSpeed: 4
   speed: 200
   grounded: 0
-  Retroceder: 0
+  Retroceder: 1
   ddistance: 0
+  DistanceBack: 3
   DistanceStop: 7
   DistanceFire: 10
   DistanceMax: 500

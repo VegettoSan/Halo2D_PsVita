@@ -29,7 +29,7 @@ AnimationClip:
         inWeight: 0
         outWeight: 0
       - serializedVersion: 3
-        time: 0.33333334
+        time: 0.48333332
         value: 1
         inSlope: Infinity
         outSlope: Infinity
@@ -57,7 +57,7 @@ AnimationClip:
         inWeight: 0
         outWeight: 0
       - serializedVersion: 3
-        time: 0.33333334
+        time: 0.48333332
         value: 1
         inSlope: Infinity
         outSlope: Infinity
@@ -78,7 +78,7 @@ AnimationClip:
       value: {fileID: 21300068, guid: 934b5f0afad9f2843909f11d03f3b702, type: 3}
     - time: 0.16666667
       value: {fileID: 21300070, guid: 934b5f0afad9f2843909f11d03f3b702, type: 3}
-    - time: 0.33333334
+    - time: 0.5
       value: {fileID: 21300070, guid: 934b5f0afad9f2843909f11d03f3b702, type: 3}
     attribute: m_Sprite
     path: Master-Chief1 Idle
@@ -121,7 +121,7 @@ AnimationClip:
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.35000002
+    m_StopTime: 0.51666665
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
@@ -150,7 +150,7 @@ AnimationClip:
         inWeight: 0
         outWeight: 0
       - serializedVersion: 3
-        time: 0.33333334
+        time: 0.48333332
         value: 1
         inSlope: Infinity
         outSlope: Infinity
@@ -178,7 +178,7 @@ AnimationClip:
         inWeight: 0
         outWeight: 0
       - serializedVersion: 3
-        time: 0.33333334
+        time: 0.48333332
         value: 1
         inSlope: Infinity
         outSlope: Infinity
@@ -197,4 +197,11 @@ AnimationClip:
   m_HasGenericRootTransform: 0
   m_HasMotionFloatCurves: 0
   m_GenerateMotionCurves: 0
-  m_Events: []
+  m_Events:
+  - time: 0.48333332
+    functionName: MeleeOff
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
